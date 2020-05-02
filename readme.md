@@ -5,3 +5,5 @@ You can run this in Binder
 [Google Colabs](https://colab.research.google.com/github/pauldog/imagemerger/blob/master/imagemerger.ipynb) (has GPU?)
 
 [Azure Notebook](https://imagemerger-paulanbird.notebooks.azure.com/j/notebooks/imagemerger.ipynb)
+
+Other possibilities include Cocalc and Kaggle and Datalore
