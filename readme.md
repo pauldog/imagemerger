@@ -1,4 +1,4 @@
-You can run this in Binder
+You can run this in the cloud:
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/pauldog/imagemerger/master)
 
